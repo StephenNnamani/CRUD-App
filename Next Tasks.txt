@@ -1,0 +1,7 @@
+===================================================================
+
+> Learn to fetch data from MSSQL to cshtml.cs file
+
+> Learn to make cshtml read files from cshtml.cs and displayed
+
+> 
